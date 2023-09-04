@@ -1,4 +1,4 @@
-# Upbit-Auto
+# Upbit-Auto(개인 프로젝트)
 python Upbit API를 이용한 코인 자동매매 프로그램
 
 매수기법 : 분/일 봉 3일 연속 상승 && 주/월봉 상승 -> 매수
